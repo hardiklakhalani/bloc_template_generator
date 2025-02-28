@@ -1,0 +1,1 @@
+# bloc_template_generator
