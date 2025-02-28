@@ -22,6 +22,7 @@ bloc_template_generator <BlocName> [--states=state1,state2] [--events=event1,eve
 - `--states`: (Optional) Comma-separated list of custom states. Default states (`initial, loading, failure, success`) are included.
 - `--events`: (Optional) Comma-separated list of custom events. Default example events (`ExampleGet, ExamplePost`) are included, and will be skipped if you add yours.
 - `--url`: (Optional) Backend base URL for API calls. Example: `https://example.com`
+- `--overwrite`: (Optional) Overwrite existing files.
 
 ## Example
 ```sh
