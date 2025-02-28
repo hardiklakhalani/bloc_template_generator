@@ -1,0 +1,17 @@
+name: bloc_template_generator
+
+description: A command-line tool to generate BLoC boiler-plate code with Dio network calls.
+version: 0.1.0
+repository: https://github.com/hardiklakhalani/bloc_template_generator
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+
+executables:
+  bloc_template_generator:
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
