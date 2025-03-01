@@ -1,5 +1,5 @@
 # BLoC Template Generator
-
+[![Dart](https://github.com/hardiklakhalani/bloc_template_generator/actions/workflows/dart.yml/badge.svg?branch=main)](https://github.com/hardiklakhalani/bloc_template_generator/actions/workflows/dart.yml)
 ## What it does?
 BLoC Template Generator is a Dart-based CLI tool that generates a structured BLoC pattern boilerplate for Flutter applications, including networking code which uses [Dio](https://pub.dev/packages/dio). It simplifies BLoC creation by generating the necessary files and folder structure based on user input.
 
